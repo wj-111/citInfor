@@ -1,0 +1,8 @@
+POST http://yapi.smart-xwork.cn/mock/147108/cit/information/lost/infor/page/list HTTP/1.1
+content-type: application/json
+
+{
+    "schoolId": "11",
+    "name": "sample",
+    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+}

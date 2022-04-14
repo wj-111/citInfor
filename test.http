@@ -1,0 +1,15 @@
+POST http://47.96.38.160:8800/update HTTP/1.1
+content-type: application/json
+
+{
+    "productId": "10",
+    "productName": "安信民稳增长混合B",
+    "productDetail": "本基金为混合型基金，其预期收益及预期风险水平高于债券型基金和货币市场基金，但低于股票型基金。本基金通过港股通投资于香港证券市场，会面临港股通机制下因投资环境、投资标的、市场制度以及交易规则等差异带来的特有风险。",
+    "productType": "基金",
+    "productAagr": "0.4545",
+    "productTime": "1",
+    "productPrice": "10000",
+    "stockCount": "10000",
+    "startDate": "2022-04-01T10:00:00.000+0000",
+    "endDate": "2022-04-18T10:00:00.000+0000"
+}
